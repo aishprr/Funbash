@@ -1,2 +1,2 @@
 # funbash
-Bash scripts to learn bash scripting 
+Bash scripts to learn bash scripting

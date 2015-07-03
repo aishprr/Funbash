@@ -5,6 +5,7 @@ git config --global user.email "$2"
 
 keys=$(ls -al ~/.ssh | grep *.pub)
 
+# $? gives the return value of the last shell command
 if [[ $? == 1 ]]; then
     #grep returns 1 if no line selected 
     echo "No public keys found"
