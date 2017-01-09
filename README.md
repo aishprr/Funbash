@@ -1,2 +1,2 @@
-# funbash
-Bash scripts to learn bash scripting
+# scrypts
+Cryptic readme
